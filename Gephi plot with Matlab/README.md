@@ -1,0 +1,4 @@
+- Using the the given matlab function, one can make the gephi plot which can be opened in the Gephi application. 
+- The cost matrix gives the cost between two nodes for eg: cost between node 1 and 3 is given by Cost(1,3)
+- The class that each node belongs is given by Class variable
+- The colors of the nodes in different classes are denoted with different colors in the gephi plot
